@@ -7,7 +7,7 @@ async function init() {
   let currentScene = 0;
 
   // Load data
-  var evGlobalData = await d3.csv("/data/ev_global.csv", d => ({
+  var evGlobalData = await d3.csv("ev_global.csv", d => ({
     Year: +d.year,
     Country: d.region_country,
     Vehicles_Sold: +d.value,
@@ -16,7 +16,7 @@ async function init() {
 
   evGlobalData = d3.sort(evGlobalData, d => d.Year);
 
-  var evCountryData = await d3.csv("/data/ev.csv", d => ({
+  var evCountryData = await d3.csv("ev.csv", d => ({
     Year: +d.year,
     Country: d.region_country,
     Vehicles_Sold: +d.value,
@@ -27,7 +27,7 @@ async function init() {
 
   //console.log(evCountryData);
 
-  var phevGlobalData = await d3.csv("/data/phev_global.csv", d => ({
+  var phevGlobalData = await d3.csv("phev_global.csv", d => ({
     Year: +d.year,
     Country: d.region_country,
     Vehicles_Sold: +d.value
@@ -35,7 +35,7 @@ async function init() {
 
   phevGlobalData = d3.sort(phevGlobalData, d => d.Year);
 
-  var phevCountryData = await d3.csv("/data/phev.csv", d => ({
+  var phevCountryData = await d3.csv("phev.csv", d => ({
     Year: +d.year,
     Country: d.region_country,
     Vehicles_Sold: +d.value
@@ -46,7 +46,7 @@ async function init() {
   //var evCountryCumData = d3.rollup(evCountryData, v => d3.sum(v, d => d.Vehicles_Sold), d => d.Country);
 
 
-  var evphevCountryCumData = await d3.csv("/data/evphev_cumm.csv", d => ({
+  var evphevCountryCumData = await d3.csv("evphev_cumm.csv", d => ({
     Country: d.region_country,
     Vehicles_Sold: +d.value
   }));
