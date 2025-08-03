@@ -44,13 +44,15 @@ The three scenes are ordered strategically:
 This ordering follows a logical narrative flow from general context to specific insights, allowing viewers to understand the big picture before diving into details.
 
 ### 5. Annotations
+There are two scenes using annotations:
 
-The annotations (used in scene# 3) follow a callout template with:
+- Scene#2 uses tooltips. Users can hover over the bars to see the exact sales volume. There is also an ephemeral tooltip that hints the user about interactivity of the bar chart.
 
-- Golden and red circles marking significant data points
-- Arrow indicators pointing to important features
-- Text boxes with contextual information
-- Rocket emoji (🚀) to emphasize "steepest growth"
+- Scene#3 uses callout annotations with:
+  - Golden and red circles marking significant data points
+  - Arrow indicators pointing to important features
+  - Text boxes with contextual information
+  - Rocket emoji (🚀) to emphasize "steepest growth"
 
 The annotations specifically highlight periods of steepest growth in Scene 3, supporting the message that EV adoption has accelerated dramatically in certain periods. The annotations are dynamic - they only appear in Scene 3 and are specific to each selected country, changing based on the calculated steepest slope periods.
 
