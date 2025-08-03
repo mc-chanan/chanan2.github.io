@@ -2,6 +2,8 @@
 
 The global electric vehicle (EV) market has experienced remarkable growth over the last decade, transforming from a niche market into a significant force within the automotive industry. This project uses the global and countries-specific sales data from International Energy Agency (IEA) and provides a web tool to the users to explore this data. The tool can be accessed from https://mc-chanan.github.io/chanan2.github.io/
 
+[![Screenshot](https://github.com/mc-chanan/chanan2.github.io/blob/main/image.png)](https://mc-chanan.github.io/chanan2.github.io/)
+
 ## Narrative Visualization Concepts Applied
 
 ### 1. Messaging
