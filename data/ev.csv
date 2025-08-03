@@ -1,0 +1,678 @@
+region_country,category,parameter,mode,powertrain,year,unit,value,Aggregate group
+China,Historical,EV sales,Cars,BEV,2024,Vehicles,6400000,Other
+China,Historical,EV sales,Cars,BEV,2023,Vehicles,5400000,Other
+China,Historical,EV sales,Cars,BEV,2022,Vehicles,4400000,Other
+China,Historical,EV sales,Cars,BEV,2021,Vehicles,2700000,Other
+USA,Historical,EV sales,Cars,BEV,2024,Vehicles,1200000,Other
+USA,Historical,EV sales,Cars,BEV,2023,Vehicles,1100000,Other
+China,Historical,EV sales,Cars,BEV,2020,Vehicles,920000,Other
+China,Historical,EV sales,Cars,BEV,2019,Vehicles,830000,Other
+China,Historical,EV sales,Cars,BEV,2018,Vehicles,820000,Other
+USA,Historical,EV sales,Cars,BEV,2022,Vehicles,800000,Other
+Germany,Historical,EV sales,Cars,BEV,2023,Vehicles,520000,Other
+China,Historical,EV sales,Cars,BEV,2017,Vehicles,470000,Other
+Germany,Historical,EV sales,Cars,BEV,2022,Vehicles,470000,Other
+USA,Historical,EV sales,Cars,BEV,2021,Vehicles,470000,Other
+Germany,Historical,EV sales,Cars,BEV,2024,Vehicles,380000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2024,Vehicles,380000,Other
+Germany,Historical,EV sales,Cars,BEV,2021,Vehicles,360000,Other
+France,Historical,EV sales,Cars,BEV,2023,Vehicles,310000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2023,Vehicles,310000,Other
+France,Historical,EV sales,Cars,BEV,2024,Vehicles,300000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2022,Vehicles,270000,Other
+China,Historical,EV sales,Cars,BEV,2016,Vehicles,260000,Other
+USA,Historical,EV sales,Cars,BEV,2018,Vehicles,240000,Other
+USA,Historical,EV sales,Cars,BEV,2019,Vehicles,240000,Other
+USA,Historical,EV sales,Cars,BEV,2020,Vehicles,230000,Other
+France,Historical,EV sales,Cars,BEV,2022,Vehicles,210000,Other
+Canada,Historical,EV sales,Cars,BEV,2024,Vehicles,190000,Other
+Germany,Historical,EV sales,Cars,BEV,2020,Vehicles,190000,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2024,Vehicles,190000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2021,Vehicles,190000,Other
+France,Historical,EV sales,Cars,BEV,2021,Vehicles,170000,Other
+China,Historical,EV sales,Cars,BEV,2015,Vehicles,150000,Other
+Norway,Historical,EV sales,Cars,BEV,2022,Vehicles,140000,Other
+Belgium,Historical,EV sales,Cars,BEV,2024,Vehicles,130000,Other
+Canada,Historical,EV sales,Cars,BEV,2023,Vehicles,130000,Other
+Netherlands,Historical,EV sales,Cars,BEV,2024,Vehicles,130000,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2023,Vehicles,130000,Other
+Korea,Historical,EV sales,Cars,BEV,2022,Vehicles,120000,Other
+Korea,Historical,EV sales,Cars,BEV,2023,Vehicles,120000,Other
+Korea,Historical,EV sales,Cars,BEV,2024,Vehicles,120000,Other
+France,Historical,EV sales,Cars,BEV,2020,Vehicles,110000,Other
+Netherlands,Historical,EV sales,Cars,BEV,2023,Vehicles,110000,Other
+Norway,Historical,EV sales,Cars,BEV,2021,Vehicles,110000,Other
+Norway,Historical,EV sales,Cars,BEV,2024,Vehicles,110000,Other
+Sweden,Historical,EV sales,Cars,BEV,2023,Vehicles,110000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2020,Vehicles,110000,Other
+Norway,Historical,EV sales,Cars,BEV,2023,Vehicles,100000,Other
+USA,Historical,EV sales,Cars,BEV,2017,Vehicles,100000,Other
+Turkiye,Historical,EV sales,Cars,BEV,2024,Vehicles,99000,Other
+Central and South America,Historical,EV sales,Cars,BEV,2024,Vehicles,98000,Other
+Sweden,Historical,EV sales,Cars,BEV,2022,Vehicles,96000,Other
+Sweden,Historical,EV sales,Cars,BEV,2024,Vehicles,94000,Other
+Belgium,Historical,EV sales,Cars,BEV,2023,Vehicles,93000,Other
+India,Historical,EV sales,Cars,BEV,2024,Vehicles,92000,Other
+Australia,Historical,EV sales,Cars,BEV,2024,Vehicles,91000,Other
+Canada,Historical,EV sales,Cars,BEV,2022,Vehicles,91000,Other
+Denmark,Historical,EV sales,Cars,BEV,2024,Vehicles,89000,Other
+Japan,Historical,EV sales,Cars,BEV,2023,Vehicles,88000,Other
+Australia,Historical,EV sales,Cars,BEV,2023,Vehicles,87000,Other
+USA,Historical,EV sales,Cars,BEV,2016,Vehicles,87000,Other
+India,Historical,EV sales,Cars,BEV,2023,Vehicles,82000,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2022,Vehicles,82000,Other
+Norway,Historical,EV sales,Cars,BEV,2020,Vehicles,77000,Other
+Thailand,Historical,EV sales,Cars,BEV,2023,Vehicles,77000,Other
+Netherlands,Historical,EV sales,Cars,BEV,2022,Vehicles,73000,Other
+Netherlands,Historical,EV sales,Cars,BEV,2020,Vehicles,72000,Other
+Korea,Historical,EV sales,Cars,BEV,2021,Vehicles,72000,Other
+Thailand,Historical,EV sales,Cars,BEV,2024,Vehicles,71000,Other
+USA,Historical,EV sales,Cars,BEV,2015,Vehicles,71000,Other
+Israel,Historical,EV sales,Cars,BEV,2024,Vehicles,69000,Other
+Viet Nam,Historical,EV sales,Cars,BEV,2024,Vehicles,69000,Other
+Italy,Historical,EV sales,Cars,BEV,2021,Vehicles,67000,Other
+Italy,Historical,EV sales,Cars,BEV,2023,Vehicles,66000,Other
+Italy,Historical,EV sales,Cars,BEV,2024,Vehicles,66000,Other
+Turkiye,Historical,EV sales,Cars,BEV,2023,Vehicles,66000,Other
+Denmark,Historical,EV sales,Cars,BEV,2023,Vehicles,63000,Other
+Germany,Historical,EV sales,Cars,BEV,2019,Vehicles,63000,Other
+Netherlands,Historical,EV sales,Cars,BEV,2021,Vehicles,63000,Other
+USA,Historical,EV sales,Cars,BEV,2014,Vehicles,63000,Other
+Brazil,Historical,EV sales,Cars,BEV,2024,Vehicles,62000,Other
+Spain,Historical,EV sales,Cars,BEV,2024,Vehicles,62000,Other
+Netherlands,Historical,EV sales,Cars,BEV,2019,Vehicles,61000,Other
+Japan,Historical,EV sales,Cars,BEV,2024,Vehicles,60000,Other
+Norway,Historical,EV sales,Cars,BEV,2019,Vehicles,60000,Other
+Canada,Historical,EV sales,Cars,BEV,2021,Vehicles,59000,Other
+Japan,Historical,EV sales,Cars,BEV,2022,Vehicles,59000,Other
+Spain,Historical,EV sales,Cars,BEV,2023,Vehicles,57000,Other
+Sweden,Historical,EV sales,Cars,BEV,2021,Vehicles,57000,Other
+Korea,Historical,EV sales,Cars,BEV,2018,Vehicles,55000,Other
+Switzerland,Historical,EV sales,Cars,BEV,2023,Vehicles,53000,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2021,Vehicles,50000,Other
+China,Historical,EV sales,Cars,BEV,2014,Vehicles,49000,Other
+Indonesia,Historical,EV sales,Cars,BEV,2024,Vehicles,49000,Other
+Israel,Historical,EV sales,Cars,BEV,2023,Vehicles,49000,Other
+Italy,Historical,EV sales,Cars,BEV,2022,Vehicles,49000,Other
+Austria,Historical,EV sales,Cars,BEV,2023,Vehicles,48000,Other
+India,Historical,EV sales,Cars,BEV,2022,Vehicles,48000,Other
+USA,Historical,EV sales,Cars,BEV,2013,Vehicles,48000,Other
+Norway,Historical,EV sales,Cars,BEV,2018,Vehicles,46000,Other
+Switzerland,Historical,EV sales,Cars,BEV,2024,Vehicles,46000,Other
+Austria,Historical,EV sales,Cars,BEV,2024,Vehicles,45000,Other
+France,Historical,EV sales,Cars,BEV,2019,Vehicles,45000,Other
+Portugal,Historical,EV sales,Cars,BEV,2024,Vehicles,42000,Other
+Switzerland,Historical,EV sales,Cars,BEV,2022,Vehicles,40000,Other
+Belgium,Historical,EV sales,Cars,BEV,2022,Vehicles,38000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2019,Vehicles,38000,Other
+Canada,Historical,EV sales,Cars,BEV,2020,Vehicles,37000,Other
+Central and South America,Historical,EV sales,Cars,BEV,2023,Vehicles,36000,Other
+Germany,Historical,EV sales,Cars,BEV,2018,Vehicles,36000,Other
+Portugal,Historical,EV sales,Cars,BEV,2023,Vehicles,36000,Other
+Austria,Historical,EV sales,Cars,BEV,2022,Vehicles,34000,Other
+Australia,Historical,EV sales,Cars,BEV,2022,Vehicles,33000,Other
+Austria,Historical,EV sales,Cars,BEV,2021,Vehicles,33000,Other
+France,Historical,EV sales,Cars,BEV,2018,Vehicles,33000,Other
+Italy,Historical,EV sales,Cars,BEV,2020,Vehicles,33000,Other
+Norway,Historical,EV sales,Cars,BEV,2017,Vehicles,33000,Other
+Korea,Historical,EV sales,Cars,BEV,2019,Vehicles,33000,Other
+Spain,Historical,EV sales,Cars,BEV,2022,Vehicles,33000,Other
+Canada,Historical,EV sales,Cars,BEV,2019,Vehicles,32000,Other
+Switzerland,Historical,EV sales,Cars,BEV,2021,Vehicles,32000,Other
+Viet Nam,Historical,EV sales,Cars,BEV,2023,Vehicles,32000,Other
+Denmark,Historical,EV sales,Cars,BEV,2022,Vehicles,31000,Other
+Korea,Historical,EV sales,Cars,BEV,2020,Vehicles,31000,Other
+Finland,Historical,EV sales,Cars,BEV,2023,Vehicles,30000,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2020,Vehicles,29000,Other
+Sweden,Historical,EV sales,Cars,BEV,2020,Vehicles,28000,Other
+Israel,Historical,EV sales,Cars,BEV,2022,Vehicles,27000,Other
+Japan,Historical,EV sales,Cars,BEV,2018,Vehicles,27000,Other
+France,Historical,EV sales,Cars,BEV,2017,Vehicles,26000,Other
+Malaysia,Historical,EV sales,Cars,BEV,2024,Vehicles,26000,Other
+Norway,Historical,EV sales,Cars,BEV,2015,Vehicles,26000,Other
+Denmark,Historical,EV sales,Cars,BEV,2021,Vehicles,25000,Other
+Germany,Historical,EV sales,Cars,BEV,2017,Vehicles,25000,Other
+Netherlands,Historical,EV sales,Cars,BEV,2018,Vehicles,24000,Other
+Norway,Historical,EV sales,Cars,BEV,2016,Vehicles,24000,Other
+Spain,Historical,EV sales,Cars,BEV,2021,Vehicles,24000,Other
+Belgium,Historical,EV sales,Cars,BEV,2021,Vehicles,23000,Other
+Canada,Historical,EV sales,Cars,BEV,2018,Vehicles,23000,Other
+France,Historical,EV sales,Cars,BEV,2016,Vehicles,23000,Other
+Ireland,Historical,EV sales,Cars,BEV,2023,Vehicles,23000,Other
+Finland,Historical,EV sales,Cars,BEV,2024,Vehicles,22000,Other
+Japan,Historical,EV sales,Cars,BEV,2021,Vehicles,22000,Other
+Japan,Historical,EV sales,Cars,BEV,2019,Vehicles,21000,Other
+New Zealand,Historical,EV sales,Cars,BEV,2023,Vehicles,21000,Other
+Mexico,Historical,EV sales,Cars,BEV,2024,Vehicles,20000,Other
+Norway,Historical,EV sales,Cars,BEV,2014,Vehicles,20000,Other
+Switzerland,Historical,EV sales,Cars,BEV,2020,Vehicles,20000,Other
+Brazil,Historical,EV sales,Cars,BEV,2023,Vehicles,19000,Other
+New Zealand,Historical,EV sales,Cars,BEV,2022,Vehicles,19000,Other
+Central and South America,Historical,EV sales,Cars,BEV,2022,Vehicles,18000,Other
+France,Historical,EV sales,Cars,BEV,2015,Vehicles,18000,Other
+Japan,Historical,EV sales,Cars,BEV,2017,Vehicles,18000,Other
+Portugal,Historical,EV sales,Cars,BEV,2022,Vehicles,18000,Other
+Spain,Historical,EV sales,Cars,BEV,2020,Vehicles,18000,Other
+Australia,Historical,EV sales,Cars,BEV,2021,Vehicles,17000,Other
+Indonesia,Historical,EV sales,Cars,BEV,2023,Vehicles,17000,Other
+Poland,Historical,EV sales,Cars,BEV,2023,Vehicles,17000,Other
+Poland,Historical,EV sales,Cars,BEV,2024,Vehicles,17000,Other
+Ireland,Historical,EV sales,Cars,BEV,2024,Vehicles,17000,Other
+Austria,Historical,EV sales,Cars,BEV,2020,Vehicles,16000,Other
+Japan,Historical,EV sales,Cars,BEV,2014,Vehicles,16000,Other
+Sweden,Historical,EV sales,Cars,BEV,2019,Vehicles,16000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2018,Vehicles,16000,Other
+Ireland,Historical,EV sales,Cars,BEV,2022,Vehicles,16000,Other
+Belgium,Historical,EV sales,Cars,BEV,2020,Vehicles,15000,Other
+China,Historical,EV sales,Cars,BEV,2013,Vehicles,15000,Other
+Finland,Historical,EV sales,Cars,BEV,2022,Vehicles,15000,Other
+Japan,Historical,EV sales,Cars,BEV,2013,Vehicles,15000,Other
+Japan,Historical,EV sales,Cars,BEV,2016,Vehicles,15000,Other
+Japan,Historical,EV sales,Cars,BEV,2020,Vehicles,15000,Other
+USA,Historical,EV sales,Cars,BEV,2012,Vehicles,15000,Other
+Romania,Historical,EV sales,Cars,BEV,2023,Vehicles,15000,Other
+Denmark,Historical,EV sales,Cars,BEV,2020,Vehicles,14000,Other
+Mexico,Historical,EV sales,Cars,BEV,2023,Vehicles,14000,Other
+Poland,Historical,EV sales,Cars,BEV,2022,Vehicles,14000,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2019,Vehicles,14000,Other
+Korea,Historical,EV sales,Cars,BEV,2017,Vehicles,14000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2017,Vehicles,14000,Other
+Japan,Historical,EV sales,Cars,BEV,2011,Vehicles,13000,Other
+Japan,Historical,EV sales,Cars,BEV,2012,Vehicles,13000,Other
+Portugal,Historical,EV sales,Cars,BEV,2021,Vehicles,13000,Other
+Switzerland,Historical,EV sales,Cars,BEV,2019,Vehicles,13000,Other
+Luxembourg,Historical,EV sales,Cars,BEV,2024,Vehicles,13000,Other
+Germany,Historical,EV sales,Cars,BEV,2015,Vehicles,12000,Other
+India,Historical,EV sales,Cars,BEV,2021,Vehicles,12000,Other
+Romania,Historical,EV sales,Cars,BEV,2022,Vehicles,12000,Other
+Colombia,Historical,EV sales,Cars,BEV,2024,Vehicles,11000,Other
+Costa Rica,Historical,EV sales,Cars,BEV,2024,Vehicles,11000,Other
+France,Historical,EV sales,Cars,BEV,2014,Vehicles,11000,Other
+Germany,Historical,EV sales,Cars,BEV,2016,Vehicles,11000,Other
+Indonesia,Historical,EV sales,Cars,BEV,2022,Vehicles,11000,Other
+Israel,Historical,EV sales,Cars,BEV,2021,Vehicles,11000,Other
+Italy,Historical,EV sales,Cars,BEV,2019,Vehicles,11000,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2024,Vehicles,11000,Other
+Luxembourg,Historical,EV sales,Cars,BEV,2023,Vehicles,11000,Other
+Finland,Historical,EV sales,Cars,BEV,2021,Vehicles,10000,Other
+Iceland,Historical,EV sales,Cars,BEV,2023,Vehicles,10000,Other
+Japan,Historical,EV sales,Cars,BEV,2015,Vehicles,10000,Other
+Spain,Historical,EV sales,Cars,BEV,2019,Vehicles,10000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2015,Vehicles,10000,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2016,Vehicles,10000,Other
+Thailand,Historical,EV sales,Cars,BEV,2022,Vehicles,9900,Other
+USA,Historical,EV sales,Cars,BEV,2011,Vehicles,9800,Other
+Romania,Historical,EV sales,Cars,BEV,2024,Vehicles,9800,Other
+China,Historical,EV sales,Cars,BEV,2012,Vehicles,9600,Other
+Austria,Historical,EV sales,Cars,BEV,2019,Vehicles,9300,Other
+Malaysia,Historical,EV sales,Cars,BEV,2023,Vehicles,9200,Other
+Germany,Historical,EV sales,Cars,BEV,2014,Vehicles,9100,Other
+France,Historical,EV sales,Cars,BEV,2013,Vehicles,8900,Other
+Belgium,Historical,EV sales,Cars,BEV,2019,Vehicles,8800,Other
+Canada,Historical,EV sales,Cars,BEV,2017,Vehicles,8700,Other
+Greece,Historical,EV sales,Cars,BEV,2024,Vehicles,8700,Other
+Hungary,Historical,EV sales,Cars,BEV,2024,Vehicles,8600,Other
+Ireland,Historical,EV sales,Cars,BEV,2021,Vehicles,8600,Other
+Brazil,Historical,EV sales,Cars,BEV,2022,Vehicles,8500,Other
+Netherlands,Historical,EV sales,Cars,BEV,2017,Vehicles,8000,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2018,Vehicles,8000,Other
+Norway,Historical,EV sales,Cars,BEV,2013,Vehicles,7900,Other
+Portugal,Historical,EV sales,Cars,BEV,2020,Vehicles,7800,Other
+Viet Nam,Historical,EV sales,Cars,BEV,2022,Vehicles,7300,Other
+Central and South America,Historical,EV sales,Cars,BEV,2021,Vehicles,7200,Other
+Poland,Historical,EV sales,Cars,BEV,2021,Vehicles,7200,Other
+Sweden,Historical,EV sales,Cars,BEV,2018,Vehicles,7100,Other
+Greece,Historical,EV sales,Cars,BEV,2023,Vehicles,7000,Other
+Turkiye,Historical,EV sales,Cars,BEV,2022,Vehicles,7000,Other
+Iceland,Historical,EV sales,Cars,BEV,2022,Vehicles,6900,Other
+Austria,Historical,EV sales,Cars,BEV,2018,Vehicles,6800,Other
+New Zealand,Historical,EV sales,Cars,BEV,2021,Vehicles,6800,Other
+Portugal,Historical,EV sales,Cars,BEV,2019,Vehicles,6800,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2014,Vehicles,6700,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2023,Vehicles,6700,Other
+Luxembourg,Historical,EV sales,Cars,BEV,2022,Vehicles,6400,Other
+Australia,Historical,EV sales,Cars,BEV,2019,Vehicles,6300,Other
+New Zealand,Historical,EV sales,Cars,BEV,2024,Vehicles,6300,Other
+Romania,Historical,EV sales,Cars,BEV,2021,Vehicles,6300,Other
+Spain,Historical,EV sales,Cars,BEV,2018,Vehicles,6000,Other
+Costa Rica,Historical,EV sales,Cars,BEV,2023,Vehicles,5800,Other
+Hungary,Historical,EV sales,Cars,BEV,2023,Vehicles,5800,Other
+France,Historical,EV sales,Cars,BEV,2012,Vehicles,5700,Other
+Uzbekistan,Historical,EV sales,Cars,BEV,2024,Vehicles,5600,Other
+Denmark,Historical,EV sales,Cars,BEV,2019,Vehicles,5500,Other
+Austria,Historical,EV sales,Cars,BEV,2017,Vehicles,5400,Other
+New Zealand,Historical,EV sales,Cars,BEV,2019,Vehicles,5300,Other
+Australia,Historical,EV sales,Cars,BEV,2020,Vehicles,5200,Other
+Canada,Historical,EV sales,Cars,BEV,2016,Vehicles,5200,Other
+Germany,Historical,EV sales,Cars,BEV,2013,Vehicles,5200,Other
+Switzerland,Historical,EV sales,Cars,BEV,2018,Vehicles,5100,Other
+Italy,Historical,EV sales,Cars,BEV,2018,Vehicles,5000,Other
+China,Historical,EV sales,Cars,BEV,2011,Vehicles,4800,Other
+Switzerland,Historical,EV sales,Cars,BEV,2017,Vehicles,4800,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2017,Vehicles,4700,Other
+Korea,Historical,EV sales,Cars,BEV,2016,Vehicles,4700,Other
+Hungary,Historical,EV sales,Cars,BEV,2022,Vehicles,4700,Other
+Russia,Historical,EV sales,Cars,BEV,2024,Vehicles,4600,Other
+Luxembourg,Historical,EV sales,Cars,BEV,2021,Vehicles,4600,Other
+Chile,Historical,EV sales,Cars,BEV,2024,Vehicles,4500,Other
+Canada,Historical,EV sales,Cars,BEV,2015,Vehicles,4400,Other
+Mexico,Historical,EV sales,Cars,BEV,2022,Vehicles,4400,Other
+New Zealand,Historical,EV sales,Cars,BEV,2018,Vehicles,4400,Other
+Sweden,Historical,EV sales,Cars,BEV,2017,Vehicles,4400,Other
+Denmark,Historical,EV sales,Cars,BEV,2015,Vehicles,4300,Other
+Portugal,Historical,EV sales,Cars,BEV,2018,Vehicles,4300,Other
+Hungary,Historical,EV sales,Cars,BEV,2021,Vehicles,4300,Other
+Slovenia,Historical,EV sales,Cars,BEV,2023,Vehicles,4300,Other
+Finland,Historical,EV sales,Cars,BEV,2020,Vehicles,4200,Other
+Iceland,Historical,EV sales,Cars,BEV,2021,Vehicles,4200,Other
+Netherlands,Historical,EV sales,Cars,BEV,2016,Vehicles,4000,Other
+Ireland,Historical,EV sales,Cars,BEV,2020,Vehicles,4000,Other
+New Zealand,Historical,EV sales,Cars,BEV,2020,Vehicles,3900,Other
+Norway,Historical,EV sales,Cars,BEV,2012,Vehicles,3900,Other
+Spain,Historical,EV sales,Cars,BEV,2017,Vehicles,3900,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2022,Vehicles,3900,Other
+Austria,Historical,EV sales,Cars,BEV,2016,Vehicles,3800,Other
+Poland,Historical,EV sales,Cars,BEV,2020,Vehicles,3700,Other
+Belgium,Historical,EV sales,Cars,BEV,2018,Vehicles,3600,Other
+Colombia,Historical,EV sales,Cars,BEV,2023,Vehicles,3600,Other
+Netherlands,Historical,EV sales,Cars,BEV,2015,Vehicles,3400,Other
+Ireland,Historical,EV sales,Cars,BEV,2019,Vehicles,3400,Other
+Switzerland,Historical,EV sales,Cars,BEV,2015,Vehicles,3300,Other
+Switzerland,Historical,EV sales,Cars,BEV,2016,Vehicles,3300,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2020,Vehicles,3300,Other
+India,Historical,EV sales,Cars,BEV,2020,Vehicles,3100,Other
+Korea,Historical,EV sales,Cars,BEV,2015,Vehicles,3100,Other
+Slovenia,Historical,EV sales,Cars,BEV,2024,Vehicles,3100,Other
+Mexico,Historical,EV sales,Cars,BEV,2021,Vehicles,3000,Other
+Sweden,Historical,EV sales,Cars,BEV,2015,Vehicles,3000,Other
+Turkiye,Historical,EV sales,Cars,BEV,2021,Vehicles,3000,Other
+Hungary,Historical,EV sales,Cars,BEV,2020,Vehicles,3000,Other
+Brazil,Historical,EV sales,Cars,BEV,2021,Vehicles,2900,Other
+New Zealand,Historical,EV sales,Cars,BEV,2017,Vehicles,2900,Other
+Sweden,Historical,EV sales,Cars,BEV,2016,Vehicles,2900,Other
+Canada,Historical,EV sales,Cars,BEV,2014,Vehicles,2800,Other
+Greece,Historical,EV sales,Cars,BEV,2022,Vehicles,2800,Other
+Romania,Historical,EV sales,Cars,BEV,2020,Vehicles,2800,Other
+Belgium,Historical,EV sales,Cars,BEV,2017,Vehicles,2700,Other
+Iceland,Historical,EV sales,Cars,BEV,2024,Vehicles,2700,Other
+Netherlands,Historical,EV sales,Cars,BEV,2014,Vehicles,2700,Other
+Switzerland,Historical,EV sales,Cars,BEV,2014,Vehicles,2700,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2021,Vehicles,2700,Other
+Costa Rica,Historical,EV sales,Cars,BEV,2022,Vehicles,2600,Other
+France,Historical,EV sales,Cars,BEV,2011,Vehicles,2600,Other
+Netherlands,Historical,EV sales,Cars,BEV,2013,Vehicles,2600,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2013,Vehicles,2600,Other
+Iceland,Historical,EV sales,Cars,BEV,2020,Vehicles,2500,Other
+Luxembourg,Historical,EV sales,Cars,BEV,2020,Vehicles,2500,Other
+Central and South America,Historical,EV sales,Cars,BEV,2020,Vehicles,2400,Other
+Japan,Historical,EV sales,Cars,BEV,2010,Vehicles,2400,Other
+Slovakia,Historical,EV sales,Cars,BEV,2023,Vehicles,2300,Other
+Slovenia,Historical,EV sales,Cars,BEV,2022,Vehicles,2300,Other
+Germany,Historical,EV sales,Cars,BEV,2012,Vehicles,2200,Other
+Greece,Historical,EV sales,Cars,BEV,2021,Vehicles,2200,Other
+Slovakia,Historical,EV sales,Cars,BEV,2024,Vehicles,2200,Other
+Belgium,Historical,EV sales,Cars,BEV,2016,Vehicles,2100,Other
+Lithuania,Historical,EV sales,Cars,BEV,2023,Vehicles,2100,Other
+Central and South America,Historical,EV sales,Cars,BEV,2019,Vehicles,2000,Other
+Italy,Historical,EV sales,Cars,BEV,2017,Vehicles,2000,Other
+Norway,Historical,EV sales,Cars,BEV,2011,Vehicles,2000,Other
+Spain,Historical,EV sales,Cars,BEV,2016,Vehicles,2000,Other
+Colombia,Historical,EV sales,Cars,BEV,2022,Vehicles,1900,Other
+Finland,Historical,EV sales,Cars,BEV,2019,Vehicles,1900,Other
+Portugal,Historical,EV sales,Cars,BEV,2017,Vehicles,1900,Other
+Russia,Historical,EV sales,Cars,BEV,2023,Vehicles,1900,Other
+Thailand,Historical,EV sales,Cars,BEV,2021,Vehicles,1900,Other
+Australia,Historical,EV sales,Cars,BEV,2018,Vehicles,1800,Other
+Mexico,Historical,EV sales,Cars,BEV,2020,Vehicles,1800,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2016,Vehicles,1800,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2023,Vehicles,1800,Other
+Croatia,Historical,EV sales,Cars,BEV,2024,Vehicles,1800,Other
+Hungary,Historical,EV sales,Cars,BEV,2019,Vehicles,1800,Other
+Lithuania,Historical,EV sales,Cars,BEV,2024,Vehicles,1800,Other
+Austria,Historical,EV sales,Cars,BEV,2014,Vehicles,1700,Other
+Austria,Historical,EV sales,Cars,BEV,2015,Vehicles,1700,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2024,Vehicles,1700,Other
+Latvia,Historical,EV sales,Cars,BEV,2023,Vehicles,1700,Other
+Slovenia,Historical,EV sales,Cars,BEV,2021,Vehicles,1700,Other
+Canada,Historical,EV sales,Cars,BEV,2013,Vehicles,1600,Other
+Chile,Historical,EV sales,Cars,BEV,2023,Vehicles,1600,Other
+Denmark,Historical,EV sales,Cars,BEV,2014,Vehicles,1600,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2015,Vehicles,1600,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2012,Vehicles,1600,Other
+Croatia,Historical,EV sales,Cars,BEV,2023,Vehicles,1600,Other
+Slovenia,Historical,EV sales,Cars,BEV,2020,Vehicles,1600,Other
+Denmark,Historical,EV sales,Cars,BEV,2018,Vehicles,1500,Other
+Israel,Historical,EV sales,Cars,BEV,2020,Vehicles,1500,Other
+Italy,Historical,EV sales,Cars,BEV,2015,Vehicles,1500,Other
+Poland,Historical,EV sales,Cars,BEV,2019,Vehicles,1500,Other
+Romania,Historical,EV sales,Cars,BEV,2019,Vehicles,1500,Other
+Belgium,Historical,EV sales,Cars,BEV,2015,Vehicles,1400,Other
+Germany,Historical,EV sales,Cars,BEV,2011,Vehicles,1400,Other
+India,Historical,EV sales,Cars,BEV,2011,Vehicles,1400,Other
+Italy,Historical,EV sales,Cars,BEV,2016,Vehicles,1400,Other
+Spain,Historical,EV sales,Cars,BEV,2014,Vehicles,1400,Other
+Croatia,Historical,EV sales,Cars,BEV,2021,Vehicles,1400,Other
+Croatia,Historical,EV sales,Cars,BEV,2022,Vehicles,1400,Other
+Estonia,Historical,EV sales,Cars,BEV,2023,Vehicles,1400,Other
+Lithuania,Historical,EV sales,Cars,BEV,2022,Vehicles,1400,Other
+Slovakia,Historical,EV sales,Cars,BEV,2022,Vehicles,1400,Other
+Belgium,Historical,EV sales,Cars,BEV,2014,Vehicles,1300,Other
+Chile,Historical,EV sales,Cars,BEV,2022,Vehicles,1300,Other
+Denmark,Historical,EV sales,Cars,BEV,2016,Vehicles,1300,Other
+Malaysia,Historical,EV sales,Cars,BEV,2022,Vehicles,1300,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2014,Vehicles,1300,Other
+Russia,Historical,EV sales,Cars,BEV,2021,Vehicles,1300,Other
+Korea,Historical,EV sales,Cars,BEV,2014,Vehicles,1300,Other
+Spain,Historical,EV sales,Cars,BEV,2015,Vehicles,1300,Other
+Thailand,Historical,EV sales,Cars,BEV,2020,Vehicles,1300,Other
+Estonia,Historical,EV sales,Cars,BEV,2024,Vehicles,1300,Other
+Hungary,Historical,EV sales,Cars,BEV,2018,Vehicles,1300,Other
+Latvia,Historical,EV sales,Cars,BEV,2024,Vehicles,1300,Other
+Australia,Historical,EV sales,Cars,BEV,2017,Vehicles,1200,Other
+New Zealand,Historical,EV sales,Cars,BEV,2016,Vehicles,1200,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2012,Vehicles,1200,Other
+South Africa,Historical,EV sales,Cars,BEV,2024,Vehicles,1200,Other
+Sweden,Historical,EV sales,Cars,BEV,2014,Vehicles,1200,Other
+Switzerland,Historical,EV sales,Cars,BEV,2013,Vehicles,1200,Other
+USA,Historical,EV sales,Cars,BEV,2010,Vehicles,1200,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2011,Vehicles,1200,Other
+Cyprus,Historical,EV sales,Cars,BEV,2024,Vehicles,1200,Other
+Ireland,Historical,EV sales,Cars,BEV,2018,Vehicles,1200,Other
+Lithuania,Historical,EV sales,Cars,BEV,2021,Vehicles,1200,Other
+China,Historical,EV sales,Cars,BEV,2010,Vehicles,1100,Other
+Iceland,Historical,EV sales,Cars,BEV,2019,Vehicles,1100,Other
+Latvia,Historical,EV sales,Cars,BEV,2022,Vehicles,1100,Other
+Slovakia,Historical,EV sales,Cars,BEV,2021,Vehicles,1100,Other
+Costa Rica,Historical,EV sales,Cars,BEV,2021,Vehicles,1000,Other
+India,Historical,EV sales,Cars,BEV,2014,Vehicles,1000,Other
+Italy,Historical,EV sales,Cars,BEV,2014,Vehicles,1000,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2022,Vehicles,1000,Other
+Luxembourg,Historical,EV sales,Cars,BEV,2019,Vehicles,990,Other
+India,Historical,EV sales,Cars,BEV,2017,Vehicles,920,Other
+India,Historical,EV sales,Cars,BEV,2018,Vehicles,920,Other
+Slovakia,Historical,EV sales,Cars,BEV,2020,Vehicles,920,Other
+Turkiye,Historical,EV sales,Cars,BEV,2020,Vehicles,890,Other
+Italy,Historical,EV sales,Cars,BEV,2013,Vehicles,860,Other
+Netherlands,Historical,EV sales,Cars,BEV,2011,Vehicles,860,Other
+Israel,Historical,EV sales,Cars,BEV,2019,Vehicles,850,Other
+Colombia,Historical,EV sales,Cars,BEV,2021,Vehicles,840,Other
+Iceland,Historical,EV sales,Cars,BEV,2017,Vehicles,840,Other
+Central and South America,Historical,EV sales,Cars,BEV,2018,Vehicles,810,Other
+South Africa,Historical,EV sales,Cars,BEV,2023,Vehicles,810,Other
+Spain,Historical,EV sales,Cars,BEV,2013,Vehicles,810,Other
+Brazil,Historical,EV sales,Cars,BEV,2020,Vehicles,800,Other
+Portugal,Historical,EV sales,Cars,BEV,2016,Vehicles,800,Other
+Netherlands,Historical,EV sales,Cars,BEV,2012,Vehicles,790,Other
+Cyprus,Historical,EV sales,Cars,BEV,2023,Vehicles,790,Other
+Finland,Historical,EV sales,Cars,BEV,2018,Vehicles,780,Other
+Iceland,Historical,EV sales,Cars,BEV,2018,Vehicles,780,Other
+Russia,Historical,EV sales,Cars,BEV,2020,Vehicles,780,Other
+Australia,Historical,EV sales,Cars,BEV,2015,Vehicles,760,Other
+Colombia,Historical,EV sales,Cars,BEV,2019,Vehicles,760,Other
+Russia,Historical,EV sales,Cars,BEV,2022,Vehicles,760,Other
+Uzbekistan,Historical,EV sales,Cars,BEV,2023,Vehicles,760,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2019,Vehicles,760,Other
+Hungary,Historical,EV sales,Cars,BEV,2017,Vehicles,750,Other
+India,Historical,EV sales,Cars,BEV,2016,Vehicles,730,Other
+Indonesia,Historical,EV sales,Cars,BEV,2021,Vehicles,730,Other
+Estonia,Historical,EV sales,Cars,BEV,2022,Vehicles,730,Other
+Denmark,Historical,EV sales,Cars,BEV,2017,Vehicles,710,Other
+Thailand,Historical,EV sales,Cars,BEV,2019,Vehicles,700,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2018,Vehicles,700,Other
+Greece,Historical,EV sales,Cars,BEV,2020,Vehicles,680,Other
+India,Historical,EV sales,Cars,BEV,2019,Vehicles,680,Other
+Australia,Historical,EV sales,Cars,BEV,2016,Vehicles,670,Other
+Colombia,Historical,EV sales,Cars,BEV,2020,Vehicles,670,Other
+Portugal,Historical,EV sales,Cars,BEV,2015,Vehicles,670,Other
+Austria,Historical,EV sales,Cars,BEV,2013,Vehicles,650,Other
+Canada,Historical,EV sales,Cars,BEV,2012,Vehicles,620,Other
+Poland,Historical,EV sales,Cars,BEV,2018,Vehicles,620,Other
+Ireland,Historical,EV sales,Cars,BEV,2017,Vehicles,620,Other
+Israel,Historical,EV sales,Cars,BEV,2012,Vehicles,600,Other
+Korea,Historical,EV sales,Cars,BEV,2013,Vehicles,600,Other
+Romania,Historical,EV sales,Cars,BEV,2018,Vehicles,600,Other
+Costa Rica,Historical,EV sales,Cars,BEV,2020,Vehicles,590,Other
+Belgium,Historical,EV sales,Cars,BEV,2012,Vehicles,570,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2011,Vehicles,570,Other
+Chile,Historical,EV sales,Cars,BEV,2021,Vehicles,560,Other
+Brazil,Historical,EV sales,Cars,BEV,2019,Vehicles,540,Other
+Croatia,Historical,EV sales,Cars,BEV,2020,Vehicles,530,Other
+Korea,Historical,EV sales,Cars,BEV,2012,Vehicles,510,Other
+Belgium,Historical,EV sales,Cars,BEV,2013,Vehicles,500,Other
+Denmark,Historical,EV sales,Cars,BEV,2013,Vehicles,500,Other
+Finland,Historical,EV sales,Cars,BEV,2017,Vehicles,500,Other
+South Africa,Historical,EV sales,Cars,BEV,2022,Vehicles,500,Other
+Denmark,Historical,EV sales,Cars,BEV,2012,Vehicles,490,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2013,Vehicles,490,Other
+Estonia,Historical,EV sales,Cars,BEV,2021,Vehicles,480,Other
+Ireland,Historical,EV sales,Cars,BEV,2015,Vehicles,470,Other
+Slovenia,Historical,EV sales,Cars,BEV,2018,Vehicles,470,Other
+Israel,Historical,EV sales,Cars,BEV,2013,Vehicles,460,Other
+Italy,Historical,EV sales,Cars,BEV,2012,Vehicles,460,Other
+India,Historical,EV sales,Cars,BEV,2010,Vehicles,450,Other
+India,Historical,EV sales,Cars,BEV,2015,Vehicles,450,Other
+Rest of the world,Historical,EV sales,Cars,BEV,2010,Vehicles,450,Other
+Lithuania,Historical,EV sales,Cars,BEV,2020,Vehicles,450,Other
+Poland,Historical,EV sales,Cars,BEV,2017,Vehicles,440,Other
+Spain,Historical,EV sales,Cars,BEV,2012,Vehicles,430,Other
+Sweden,Historical,EV sales,Cars,BEV,2013,Vehicles,430,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2021,Vehicles,430,Other
+Denmark,Historical,EV sales,Cars,BEV,2011,Vehicles,420,Other
+India,Historical,EV sales,Cars,BEV,2013,Vehicles,410,Other
+Latvia,Historical,EV sales,Cars,BEV,2021,Vehicles,410,Other
+Switzerland,Historical,EV sales,Cars,BEV,2011,Vehicles,400,Other
+Cyprus,Historical,EV sales,Cars,BEV,2022,Vehicles,400,Other
+Central and South America,Historical,EV sales,Cars,BEV,2017,Vehicles,390,Other
+Iceland,Historical,EV sales,Cars,BEV,2015,Vehicles,390,Other
+Spain,Historical,EV sales,Cars,BEV,2011,Vehicles,390,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2017,Vehicles,390,Other
+Ireland,Historical,EV sales,Cars,BEV,2016,Vehicles,390,Other
+Iceland,Historical,EV sales,Cars,BEV,2016,Vehicles,380,Other
+Australia,Historical,EV sales,Cars,BEV,2014,Vehicles,370,Other
+Norway,Historical,EV sales,Cars,BEV,2010,Vehicles,360,Other
+Costa Rica,Historical,EV sales,Cars,BEV,2019,Vehicles,350,Other
+Russia,Historical,EV sales,Cars,BEV,2016,Vehicles,350,Other
+Russia,Historical,EV sales,Cars,BEV,2019,Vehicles,350,Other
+Indonesia,Historical,EV sales,Cars,BEV,2020,Vehicles,340,Other
+Switzerland,Historical,EV sales,Cars,BEV,2012,Vehicles,340,Other
+Estonia,Historical,EV sales,Cars,BEV,2020,Vehicles,340,Other
+Latvia,Historical,EV sales,Cars,BEV,2020,Vehicles,310,Other
+New Zealand,Historical,EV sales,Cars,BEV,2015,Vehicles,300,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2015,Vehicles,300,Other
+Malaysia,Historical,EV sales,Cars,BEV,2021,Vehicles,290,Other
+Mexico,Historical,EV sales,Cars,BEV,2019,Vehicles,290,Other
+Slovakia,Historical,EV sales,Cars,BEV,2018,Vehicles,290,Other
+Slovenia,Historical,EV sales,Cars,BEV,2017,Vehicles,290,Other
+Belgium,Historical,EV sales,Cars,BEV,2011,Vehicles,280,Other
+Korea,Historical,EV sales,Cars,BEV,2011,Vehicles,270,Other
+Sweden,Historical,EV sales,Cars,BEV,2012,Vehicles,270,Other
+Colombia,Historical,EV sales,Cars,BEV,2018,Vehicles,250,Other
+Mexico,Historical,EV sales,Cars,BEV,2016,Vehicles,250,Other
+Finland,Historical,EV sales,Cars,BEV,2015,Vehicles,240,Other
+United Kingdom,Historical,EV sales,Cars,BEV,2010,Vehicles,240,Other
+Costa Rica,Historical,EV sales,Cars,BEV,2018,Vehicles,230,Other
+Mexico,Historical,EV sales,Cars,BEV,2017,Vehicles,230,Other
+Turkiye,Historical,EV sales,Cars,BEV,2019,Vehicles,230,Other
+Canada,Historical,EV sales,Cars,BEV,2011,Vehicles,220,Other
+Chile,Historical,EV sales,Cars,BEV,2019,Vehicles,220,Other
+Finland,Historical,EV sales,Cars,BEV,2016,Vehicles,220,Other
+South Africa,Historical,EV sales,Cars,BEV,2021,Vehicles,220,Other
+Central and South America,Historical,EV sales,Cars,BEV,2016,Vehicles,210,Other
+Slovakia,Historical,EV sales,Cars,BEV,2017,Vehicles,210,Other
+Iceland,Historical,EV sales,Cars,BEV,2014,Vehicles,200,Other
+Mexico,Historical,EV sales,Cars,BEV,2018,Vehicles,200,Other
+Czech Republic,Historical,EV sales,Cars,BEV,2016,Vehicles,200,Other
+Australia,Historical,EV sales,Cars,BEV,2013,Vehicles,190,Other
+France,Historical,EV sales,Cars,BEV,2010,Vehicles,190,Other
+Greece,Historical,EV sales,Cars,BEV,2019,Vehicles,190,Other
+India,Historical,EV sales,Cars,BEV,2012,Vehicles,190,Other
+Portugal,Historical,EV sales,Cars,BEV,2014,Vehicles,190,Other
+Turkiye,Historical,EV sales,Cars,BEV,2018,Vehicles,190,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2018,Vehicles,190,Other
+Croatia,Historical,EV sales,Cars,BEV,2019,Vehicles,190,Other
+Romania,Historical,EV sales,Cars,BEV,2017,Vehicles,190,Other
+Slovenia,Historical,EV sales,Cars,BEV,2019,Vehicles,190,Other
+Brazil,Historical,EV sales,Cars,BEV,2018,Vehicles,180,Other
+Finland,Historical,EV sales,Cars,BEV,2014,Vehicles,180,Other
+Sweden,Historical,EV sales,Cars,BEV,2011,Vehicles,180,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2019,Vehicles,180,Other
+Australia,Historical,EV sales,Cars,BEV,2012,Vehicles,170,Other
+Portugal,Historical,EV sales,Cars,BEV,2011,Vehicles,170,Other
+Hungary,Historical,EV sales,Cars,BEV,2016,Vehicles,170,Other
+Chile,Historical,EV sales,Cars,BEV,2020,Vehicles,160,Other
+South Africa,Historical,EV sales,Cars,BEV,2019,Vehicles,160,Other
+Lithuania,Historical,EV sales,Cars,BEV,2019,Vehicles,160,Other
+Slovakia,Historical,EV sales,Cars,BEV,2019,Vehicles,160,Other
+Portugal,Historical,EV sales,Cars,BEV,2013,Vehicles,150,Other
+Brazil,Historical,EV sales,Cars,BEV,2017,Vehicles,140,Other
+Germany,Historical,EV sales,Cars,BEV,2010,Vehicles,140,Other
+Malaysia,Historical,EV sales,Cars,BEV,2017,Vehicles,140,Other
+Poland,Historical,EV sales,Cars,BEV,2014,Vehicles,140,Other
+Russia,Historical,EV sales,Cars,BEV,2018,Vehicles,140,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2020,Vehicles,140,Other
+Lithuania,Historical,EV sales,Cars,BEV,2018,Vehicles,140,Other
+Slovenia,Historical,EV sales,Cars,BEV,2016,Vehicles,140,Other
+Brazil,Historical,EV sales,Cars,BEV,2016,Vehicles,130,Other
+Chile,Historical,EV sales,Cars,BEV,2018,Vehicles,130,Other
+Israel,Historical,EV sales,Cars,BEV,2017,Vehicles,130,Other
+Israel,Historical,EV sales,Cars,BEV,2018,Vehicles,130,Other
+Chile,Historical,EV sales,Cars,BEV,2017,Vehicles,120,Other
+Netherlands,Historical,EV sales,Cars,BEV,2010,Vehicles,120,Other
+South Africa,Historical,EV sales,Cars,BEV,2015,Vehicles,120,Other
+Turkiye,Historical,EV sales,Cars,BEV,2015,Vehicles,120,Other
+Hungary,Historical,EV sales,Cars,BEV,2015,Vehicles,120,Other
+Central and South America,Historical,EV sales,Cars,BEV,2015,Vehicles,110,Other
+Italy,Historical,EV sales,Cars,BEV,2011,Vehicles,110,Other
+Malaysia,Historical,EV sales,Cars,BEV,2016,Vehicles,110,Other
+New Zealand,Historical,EV sales,Cars,BEV,2014,Vehicles,110,Other
+Poland,Historical,EV sales,Cars,BEV,2016,Vehicles,110,Other
+Russia,Historical,EV sales,Cars,BEV,2015,Vehicles,110,Other
+Russia,Historical,EV sales,Cars,BEV,2017,Vehicles,110,Other
+Thailand,Historical,EV sales,Cars,BEV,2018,Vehicles,110,Other
+South Africa,Historical,EV sales,Cars,BEV,2016,Vehicles,100,Other
+Seychelles,Historical,EV sales,Cars,BEV,2023,Vehicles,100,Other
+Central and South America,Historical,EV sales,Cars,BEV,2014,Vehicles,93,Other
+Colombia,Historical,EV sales,Cars,BEV,2017,Vehicles,92,Other
+Mexico,Historical,EV sales,Cars,BEV,2015,Vehicles,92,Other
+South Africa,Historical,EV sales,Cars,BEV,2020,Vehicles,92,Other
+Turkiye,Historical,EV sales,Cars,BEV,2012,Vehicles,92,Other
+Greece,Historical,EV sales,Cars,BEV,2018,Vehicles,88,Other
+Mexico,Historical,EV sales,Cars,BEV,2012,Vehicles,88,Other
+Malaysia,Historical,EV sales,Cars,BEV,2020,Vehicles,87,Other
+Latvia,Historical,EV sales,Cars,BEV,2019,Vehicles,86,Other
+Viet Nam,Historical,EV sales,Cars,BEV,2021,Vehicles,85,Other
+Estonia,Historical,EV sales,Cars,BEV,2018,Vehicles,85,Other
+Cyprus,Historical,EV sales,Cars,BEV,2021,Vehicles,84,Other
+Iceland,Historical,EV sales,Cars,BEV,2013,Vehicles,80,Other
+Estonia,Historical,EV sales,Cars,BEV,2019,Vehicles,80,Other
+Turkiye,Historical,EV sales,Cars,BEV,2017,Vehicles,77,Other
+Spain,Historical,EV sales,Cars,BEV,2010,Vehicles,76,Other
+Romania,Historical,EV sales,Cars,BEV,2016,Vehicles,74,Other
+Latvia,Historical,EV sales,Cars,BEV,2018,Vehicles,73,Other
+Poland,Historical,EV sales,Cars,BEV,2015,Vehicles,70,Other
+South Africa,Historical,EV sales,Cars,BEV,2017,Vehicles,68,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2017,Vehicles,68,Other
+Central and South America,Historical,EV sales,Cars,BEV,2013,Vehicles,66,Other
+South Africa,Historical,EV sales,Cars,BEV,2018,Vehicles,66,Other
+Lithuania,Historical,EV sales,Cars,BEV,2016,Vehicles,64,Other
+Malaysia,Historical,EV sales,Cars,BEV,2018,Vehicles,62,Other
+Brazil,Historical,EV sales,Cars,BEV,2014,Vehicles,61,Other
+Brazil,Historical,EV sales,Cars,BEV,2015,Vehicles,61,Other
+Korea,Historical,EV sales,Cars,BEV,2010,Vehicles,61,Other
+Seychelles,Historical,EV sales,Cars,BEV,2021,Vehicles,61,Other
+Slovakia,Historical,EV sales,Cars,BEV,2016,Vehicles,59,Other
+Portugal,Historical,EV sales,Cars,BEV,2012,Vehicles,54,Other
+Central and South America,Historical,EV sales,Cars,BEV,2012,Vehicles,53,Other
+Lithuania,Historical,EV sales,Cars,BEV,2017,Vehicles,52,Other
+Slovakia,Historical,EV sales,Cars,BEV,2015,Vehicles,52,Other
+Finland,Historical,EV sales,Cars,BEV,2012,Vehicles,51,Other
+Finland,Historical,EV sales,Cars,BEV,2013,Vehicles,50,Other
+Greece,Historical,EV sales,Cars,BEV,2017,Vehicles,50,Other
+Australia,Historical,EV sales,Cars,BEV,2011,Vehicles,49,Other
+Russia,Historical,EV sales,Cars,BEV,2012,Vehicles,49,Other
+Belgium,Historical,EV sales,Cars,BEV,2010,Vehicles,48,Other
+Mexico,Historical,EV sales,Cars,BEV,2014,Vehicles,48,Other
+Turkiye,Historical,EV sales,Cars,BEV,2014,Vehicles,46,Other
+Poland,Historical,EV sales,Cars,BEV,2012,Vehicles,44,Other
+Turkiye,Historical,EV sales,Cars,BEV,2016,Vehicles,44,Other
+Poland,Historical,EV sales,Cars,BEV,2011,Vehicles,43,Other
+Malaysia,Historical,EV sales,Cars,BEV,2019,Vehicles,42,Other
+Cyprus,Historical,EV sales,Cars,BEV,2020,Vehicles,42,Other
+Greece,Historical,EV sales,Cars,BEV,2016,Vehicles,41,Other
+Russia,Historical,EV sales,Cars,BEV,2011,Vehicles,41,Other
+Italy,Historical,EV sales,Cars,BEV,2010,Vehicles,40,Other
+Brazil,Historical,EV sales,Cars,BEV,2013,Vehicles,39,Other
+Colombia,Historical,EV sales,Cars,BEV,2015,Vehicles,39,Other
+Greece,Historical,EV sales,Cars,BEV,2014,Vehicles,39,Other
+Malaysia,Historical,EV sales,Cars,BEV,2015,Vehicles,37,Other
+Lithuania,Historical,EV sales,Cars,BEV,2015,Vehicles,37,Other
+Seychelles,Historical,EV sales,Cars,BEV,2019,Vehicles,37,Other
+Seychelles,Historical,EV sales,Cars,BEV,2022,Vehicles,37,Other
+Greece,Historical,EV sales,Cars,BEV,2015,Vehicles,35,Other
+Estonia,Historical,EV sales,Cars,BEV,2016,Vehicles,35,Other
+South Africa,Historical,EV sales,Cars,BEV,2013,Vehicles,34,Other
+Estonia,Historical,EV sales,Cars,BEV,2015,Vehicles,34,Other
+Seychelles,Historical,EV sales,Cars,BEV,2018,Vehicles,32,Other
+Poland,Historical,EV sales,Cars,BEV,2013,Vehicles,31,Other
+Finland,Historical,EV sales,Cars,BEV,2011,Vehicles,30,Other
+New Zealand,Historical,EV sales,Cars,BEV,2013,Vehicles,30,Other
+Seychelles,Historical,EV sales,Cars,BEV,2017,Vehicles,30,Other
+Indonesia,Historical,EV sales,Cars,BEV,2019,Vehicles,29,Other
+Colombia,Historical,EV sales,Cars,BEV,2016,Vehicles,28,Other
+Colombia,Historical,EV sales,Cars,BEV,2014,Vehicles,27,Other
+Thailand,Historical,EV sales,Cars,BEV,2017,Vehicles,27,Other
+Colombia,Historical,EV sales,Cars,BEV,2012,Vehicles,26,Other
+Estonia,Historical,EV sales,Cars,BEV,2017,Vehicles,26,Other
+Seychelles,Historical,EV sales,Cars,BEV,2020,Vehicles,26,Other
+Romania,Historical,EV sales,Cars,BEV,2015,Vehicles,24,Other
+Cyprus,Historical,EV sales,Cars,BEV,2019,Vehicles,23,Other
+Brazil,Historical,EV sales,Cars,BEV,2012,Vehicles,22,Other
+Chile,Historical,EV sales,Cars,BEV,2016,Vehicles,22,Other
+Colombia,Historical,EV sales,Cars,BEV,2013,Vehicles,22,Other
+Costa Rica,Historical,EV sales,Cars,BEV,2016,Vehicles,22,Other
+New Zealand,Historical,EV sales,Cars,BEV,2012,Vehicles,22,Other
+Latvia,Historical,EV sales,Cars,BEV,2016,Vehicles,22,Other
+Latvia,Historical,EV sales,Cars,BEV,2017,Vehicles,22,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2015,Vehicles,21,Other
+Iceland,Historical,EV sales,Cars,BEV,2012,Vehicles,17,Other
+Latvia,Historical,EV sales,Cars,BEV,2015,Vehicles,17,Other
+Central and South America,Historical,EV sales,Cars,BEV,2011,Vehicles,15,Other
+Malaysia,Historical,EV sales,Cars,BEV,2014,Vehicles,15,Other
+Poland,Historical,EV sales,Cars,BEV,2010,Vehicles,15,Other
+Costa Rica,Historical,EV sales,Cars,BEV,2017,Vehicles,14,Other
+South Africa,Historical,EV sales,Cars,BEV,2014,Vehicles,14,Other
+Thailand,Historical,EV sales,Cars,BEV,2015,Vehicles,14,Other
+Chile,Historical,EV sales,Cars,BEV,2015,Vehicles,13,Other
+New Zealand,Historical,EV sales,Cars,BEV,2011,Vehicles,13,Other
+Portugal,Historical,EV sales,Cars,BEV,2010,Vehicles,13,Other
+Thailand,Historical,EV sales,Cars,BEV,2013,Vehicles,13,Other
+Mexico,Historical,EV sales,Cars,BEV,2013,Vehicles,12,Other
+Seychelles,Historical,EV sales,Cars,BEV,2016,Vehicles,12,Other
+Brazil,Historical,EV sales,Cars,BEV,2010,Vehicles,10,Other
+Central and South America,Historical,EV sales,Cars,BEV,2010,Vehicles,10,Other
+Malaysia,Historical,EV sales,Cars,BEV,2012,Vehicles,10,Other
+New Zealand,Historical,EV sales,Cars,BEV,2010,Vehicles,10,Other
+Thailand,Historical,EV sales,Cars,BEV,2011,Vehicles,9,Other
+Brazil,Historical,EV sales,Cars,BEV,2011,Vehicles,8,Other
+Thailand,Historical,EV sales,Cars,BEV,2012,Vehicles,7,Other
+Chile,Historical,EV sales,Cars,BEV,2011,Vehicles,6,Other
+Israel,Historical,EV sales,Cars,BEV,2014,Vehicles,6,Other
+Thailand,Historical,EV sales,Cars,BEV,2014,Vehicles,6,Other
+Chile,Historical,EV sales,Cars,BEV,2012,Vehicles,5,Other
+Chile,Historical,EV sales,Cars,BEV,2013,Vehicles,5,Other
+Chile,Historical,EV sales,Cars,BEV,2014,Vehicles,5,Other
+Israel,Historical,EV sales,Cars,BEV,2016,Vehicles,5,Other
+Bulgaria,Historical,EV sales,Cars,BEV,2016,Vehicles,5,Other
+Sweden,Historical,EV sales,Cars,BEV,2010,Vehicles,4,Other
+Greece,Historical,EV sales,Cars,BEV,2013,Vehicles,3,Other
+Israel,Historical,EV sales,Cars,BEV,2011,Vehicles,3,Other
+Israel,Historical,EV sales,Cars,BEV,2015,Vehicles,3,Other
+Mexico,Historical,EV sales,Cars,BEV,2011,Vehicles,3,Other
+Viet Nam,Historical,EV sales,Cars,BEV,2018,Vehicles,3,Other
+Seychelles,Historical,EV sales,Cars,BEV,2015,Vehicles,3,Other
+Indonesia,Historical,EV sales,Cars,BEV,2011,Vehicles,2,Other
+Indonesia,Historical,EV sales,Cars,BEV,2013,Vehicles,2,Other
+Malaysia,Historical,EV sales,Cars,BEV,2013,Vehicles,2,Other
+Thailand,Historical,EV sales,Cars,BEV,2016,Vehicles,2,Other
+Colombia,Historical,EV sales,Cars,BEV,2011,Vehicles,1,Other
+Thailand,Historical,EV sales,Cars,BEV,2010,Vehicles,1,Other

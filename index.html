@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>EVs and PHEVs sales growth</title>
+  <style>
+    #header h1,
+    h4 {
+      width: auto;
+      display: table;
+      text-align: center;
+      color: #293929;
+      margin: auto;
+      height: 60%;
+      line-height: 100%;
+      padding: 1%;
+      position: relative;
+      font-family: Impact, Roboto, Charcoal, sans-serif;
+      font-size: 200%;
+    }
+
+    h2
+    {
+      width: auto;
+      display: table;
+      text-align: center;
+      color: #293929;
+      margin: auto;
+      height: 60%;
+      line-height: 100%;
+      padding: 1%;
+      position: relative;
+      font-family: Impact, Roboto, Charcoal, sans-serif;
+      font-size: 140%;
+    }
+
+
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .scene {
+      display: none;
+    }
+    .active {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      grid-gap: 20px;
+      align-items: start;
+    }
+    svg {
+      border: 1px solid #ccc;
+    }
+    #country-select {
+      margin: 10px 0;
+    }
+    .button-container {
+      margin-top: 20px;
+      text-align: right;
+    }
+    .chart-container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .text-container {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  </style>
+</head>
+<body>
+<div id='header'>
+  <h1>EVs and PHEVs Sales (2010 - 2024)</h1>
+</div>
+
+<div class="button-container">
+  <button id="previous">Previous</button>
+  <button id="next">Next</button>
+</div>
+
+<div id="scene-1" class="scene active">
+  <div class="chart-container">
+    <div id="line-chart"></div>
+  </div>
+  <div class="text-container">
+    <h2>EVs and PHEVs sales over time</h2>
+    <p>This line chart shows the growth in global sales of Electric Vehicles (EVs) and Plug-in Hybrids (PHEVs)</p>
+  </div>
+</div>
+
+<div id="scene-2" class="scene">
+  <div class="chart-container">
+    <div id="bar-chart"></div>
+  </div>
+  <div class="text-container">
+    <h2>Cumulative sales by country</h2>
+    <p>This bar chart shows the cumulative sales (2010 - 2024) for top 25 countries</p>
+  </div>
+</div>
+
+<div id="scene-3" class="scene">
+  <div class="chart-container">
+    <div id="country-chart"></div>
+  </div>
+  <div class="text-container">
+    <h2>EVs and PHEVs sales growth by country</h2>
+    <p>Select a country to see its sales growth of EVs and PHEVs from 2010 to 2024 </p>
+    <select id="country-select">
+      <option value="">Select a country</option>
+    </select>
+  </div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.0.0/d3-annotation.min.js"></script>
+<script src="./js/app.js"></script>
+</body>
+</html>
