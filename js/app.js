@@ -296,12 +296,12 @@ async function init() {
       .attr("class", "bar")
       .attr("x", x(0))
       .attr("y", d => y(d.Country))
-      .attr("width", d => x(d.Vehicles_Sold))
       .attr("height", y.bandwidth())//d => height - (d => d.Vehicles_Sold))  //d => height - y(d => d.Vehicles_Sold))
       .attr("fill", getRandomColor)
       .transition() // Begin the animation
       .duration(1000) // Set the duration of the animation to 1000ms (1 second)
-      .delay((d, i) => i * 150); // Add a slight delay for a staggered effect
+      .delay((d, i) => i * 50) // Add a slight delay for a staggered effect
+      .attr("width", d => x(d.Vehicles_Sold));
 
 
     g.append("text")
