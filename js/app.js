@@ -272,10 +272,9 @@ async function init() {
 
     const g = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
 
-
     const x = d3.scaleLinear()
-                .domain([d3.min(evphevCountryCumData_25, d => d.Vehicles_Sold), d3.max(evphevCountryCumData_25, d => d.Vehicles_Sold)])
-                .range([3, width]);
+      .domain([0, d3.max(evphevCountryCumData_25, d => d.Vehicles_Sold)]) // Start domain from 0
+      .range([0, width]); // Start range from 0
 
     g.append("g")
       .attr("transform", `translate(0,${height})`)
@@ -285,25 +284,82 @@ async function init() {
       .style("text-anchor", "end");
 
     const y = d3.scaleBand()
-      .domain(evphevCountryCumData_25.map(d => d.Country)).range([0, height]).padding(0.1);
+      .domain(evphevCountryCumData_25.map(d => d.Country))
+      .range([0, height])
+      .padding(0.1);
 
     g.append("g")
       .call(d3.axisLeft(y));
+
+    // Create tooltip
+    const tooltip = d3.select("body").select(".bar-tooltip").empty()
+      ? d3.select("body").append("div")
+        .attr("class", "bar-tooltip")
+        .style("position", "absolute")
+        .style("padding", "12px")
+        .style("background", "rgba(0, 0, 0, 0.9)")
+        .style("color", "white")
+        .style("border-radius", "8px")
+        .style("pointer-events", "none")
+        .style("font-size", "14px")
+        .style("opacity", 0)
+        .style("transition", "opacity 0.3s")
+        .style("box-shadow", "0 4px 6px rgba(0, 0, 0, 0.1)")
+        .style("z-index", "1000")
+      : d3.select("body").select(".bar-tooltip");
 
     g.selectAll(".bar")
       .data(evphevCountryCumData_25)
       .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", x(0))
+      .attr("x", 0) // Start at x=0
       .attr("y", d => y(d.Country))
-      .attr("height", y.bandwidth())//d => height - (d => d.Vehicles_Sold))  //d => height - y(d => d.Vehicles_Sold))
+      .attr("width", 0) // Start with width=0 for animation
+      .attr("height", y.bandwidth())
       .attr("fill", getRandomColor)
+      .style("cursor", "pointer")
+      .on("mouseover", function(event, d) {
+        // Highlight the bar
+        d3.select(this)
+          .style("opacity", 0.8)
+          .style("stroke", "#333")
+          .style("stroke-width", 2);
+
+        // Show tooltip
+        tooltip.transition()
+          .duration(200)
+          .style("opacity", 1);
+
+        tooltip.html(`
+        <strong>${d.Country}</strong><br/>
+        Total Sales: <strong>${d.Vehicles_Sold.toLocaleString()}</strong><br/>
+      `)
+          .style("left", (event.pageX + 10) + "px")
+          .style("top", (event.pageY - 10) + "px");
+      })
+      .on("mousemove", function(event, d) {
+        // Update tooltip position as mouse moves
+        tooltip
+          .style("left", (event.pageX + 10) + "px")
+          .style("top", (event.pageY - 10) + "px");
+      })
+      .on("mouseout", function(event, d) {
+        // Remove bar highlighting
+        d3.select(this)
+          .style("opacity", 1)
+          .style("stroke", "none");
+
+        // Hide tooltip
+        tooltip.transition()
+          .duration(500)
+          .style("opacity", 0);
+      })
       .transition() // Begin the animation
       .duration(1000) // Set the duration of the animation to 1000ms (1 second)
-      .delay((d, i) => i * 50) // Add a slight delay for a staggered effect
-      .attr("width", d => x(d.Vehicles_Sold));
+      .delay((d, i) => i * 150) // Add a slight delay for a staggered effect
+      .attr("width", d => x(d.Vehicles_Sold)); // Animate TO the final width
 
-
+    // Add axis label
     g.append("text")
       .attr("transform", `translate(${width / 2}, ${height + margin.bottom - 10})`)
       .style("text-anchor", "middle")
@@ -311,6 +367,60 @@ async function init() {
       .style("font-weight", "600")
       .style("fill", "#333")
       .text("Vehicles Sold");
+
+    // Add instructional tooltip
+    const instructionTooltip = g.append("g")
+      .attr("class", "instruction-tooltip")
+      .attr("transform", `translate(${width - 20}, 20)`);
+
+    // Background rectangle for instruction
+    const instructionBg = instructionTooltip.append("rect")
+      .attr("x", -180)
+      .attr("y", 20)
+      .attr("width", 180)
+      .attr("height", 35)
+      .attr("rx", 8)
+      .attr("fill", "rgba(46, 134, 171, 0.9)")
+      .attr("stroke", "#2E86AB")
+      .attr("stroke-width", 2)
+      .style("opacity", 0);
+
+    // Instruction text
+    const instructionText = instructionTooltip.append("text")
+      .attr("x", -90)
+      .attr("y", 40)
+      .style("text-anchor", "middle")
+      .style("font-size", "12px")
+      .style("font-weight", "500")
+      .style("fill", "white")
+      .style("opacity", 0)
+      .text("💡 Hover over bars for details");
+
+    // Animate instruction appearance
+    instructionBg
+      .transition()
+      .delay(2000) // Show after bars finish animating
+      .duration(800)
+      .style("opacity", 1);
+
+    instructionText
+      .transition()
+      .delay(2000)
+      .duration(800)
+      .style("opacity", 1);
+
+    // Auto-hide instruction after some time
+    setTimeout(() => {
+      instructionBg
+        .transition()
+        .duration(1000)
+        .style("opacity", 0);
+
+      instructionText
+        .transition()
+        .duration(1000)
+        .style("opacity", 0);
+    }, 8000); // Hide after 8 seconds total (2s delay + 6s visible)
   }
 
 
