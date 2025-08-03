@@ -1,0 +1,16 @@
+region_country,category,parameter,mode,powertrain,year,unit,value,Aggregate group
+World,Historical,EV sales,Cars,PHEV,2024,Vehicles,6500000,_World
+World,Historical,EV sales,Cars,PHEV,2023,Vehicles,4200000,_World
+World,Historical,EV sales,Cars,PHEV,2022,Vehicles,2900000,_World
+World,Historical,EV sales,Cars,PHEV,2021,Vehicles,1900000,_World
+World,Historical,EV sales,Cars,PHEV,2020,Vehicles,970000,_World
+World,Historical,EV sales,Cars,PHEV,2018,Vehicles,650000,_World
+World,Historical,EV sales,Cars,PHEV,2019,Vehicles,580000,_World
+World,Historical,EV sales,Cars,PHEV,2017,Vehicles,440000,_World
+World,Historical,EV sales,Cars,PHEV,2016,Vehicles,310000,_World
+World,Historical,EV sales,Cars,PHEV,2015,Vehicles,190000,_World
+World,Historical,EV sales,Cars,PHEV,2014,Vehicles,130000,_World
+World,Historical,EV sales,Cars,PHEV,2013,Vehicles,91000,_World
+World,Historical,EV sales,Cars,PHEV,2012,Vehicles,60000,_World
+World,Historical,EV sales,Cars,PHEV,2011,Vehicles,9000,_World
+World,Historical,EV sales,Cars,PHEV,2010,Vehicles,450,_World
